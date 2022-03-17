@@ -1,0 +1,9 @@
+{
+	"ip":"SMPNMAFREE.aternos.me:11087",
+	"port": 11087,
+	"name": "TREO24H",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register 123123123 123123123",
+	"login-cmd":"/login 123123123"
+}
